@@ -22,8 +22,8 @@ h2 {
   width: 150px;
   padding-top: 3px;
   padding-bottom: 3px;
-  border-bottom: 2px solid black;
-  border-left: 2px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
 }
 
 p {
@@ -32,7 +32,7 @@ p {
   font-weight: 600;
   overflow: hidden;
   padding-top: 10px;
-  margin: 10px;
+  margin: 16px;
 }
 
 /* Simple Responsive Framework. */
@@ -42,7 +42,7 @@ p {
 
 .category{
   background-color: #999999;
-  border: 2px solid black;
+  border: 1px solid black;
   margin: 20px;
 }
 
